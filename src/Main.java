@@ -17,7 +17,6 @@ public class Main {
         System.out.println("Ф.И.О. сотрудника - " + fullName);
         // Lesson 2
         System.out.println("Данные Ф.И.О. сотрудника для заполнения отчета — " + fullName.toUpperCase(Locale.ROOT));
-
     }
 
     public static void Task3(){
